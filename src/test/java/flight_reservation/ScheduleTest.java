@@ -1,4 +1,4 @@
-package flight.reservation;
+package flight_reservation;
 
 import flight.reservation.flight.Flight;
 import flight.reservation.flight.Schedule;
@@ -6,6 +6,7 @@ import flight.reservation.flight.ScheduledFlight;
 import flight.reservation.plane.Helicopter;
 import flight.reservation.plane.PassengerDrone;
 import flight.reservation.plane.PassengerPlane;
+import flight.reservation.Airport;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Nested;
